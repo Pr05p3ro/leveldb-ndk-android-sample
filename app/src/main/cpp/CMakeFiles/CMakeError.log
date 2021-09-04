@@ -1,0 +1,245 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/Pr05p3ro/AppData/Local/Android/Sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe 
+Build flags: -g;-DANDROID;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-D_FORTIFY_SOURCE=2;-Wformat;-Werror=format-security;
+Id flags: -c;--target=aarch64-none-linux-android21 
+
+The output was:
+1
+Microsoft (R) Build Engine version 16.8.3+39993bd9d for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/5/2021 2:58:32 AM.
+Project "C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): error MSB8020: The build tools for Clang_5_0 (Platform Toolset = 'Clang_5_0') cannot be found. To build using the Clang_5_0 build tools, please install Clang_5_0 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution". [C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdC\CompilerIdC.vcxproj]
+Done Building Project "C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdC\CompilerIdC.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdC\CompilerIdC.vcxproj" (default target) (1) ->
+(PrepareForBuild target) -> 
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): error MSB8020: The build tools for Clang_5_0 (Platform Toolset = 'Clang_5_0') cannot be found. To build using the Clang_5_0 build tools, please install Clang_5_0 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution". [C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdC\CompilerIdC.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.12
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/Pr05p3ro/AppData/Local/Android/Sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe 
+Build flags: -g;-DANDROID;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-D_FORTIFY_SOURCE=2;-Wformat;-Werror=format-security;
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 16.8.3+39993bd9d for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/5/2021 2:58:33 AM.
+Project "C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): error MSB8020: The build tools for Clang_5_0 (Platform Toolset = 'Clang_5_0') cannot be found. To build using the Clang_5_0 build tools, please install Clang_5_0 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution". [C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdC\CompilerIdC.vcxproj]
+Done Building Project "C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdC\CompilerIdC.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdC\CompilerIdC.vcxproj" (default target) (1) ->
+(PrepareForBuild target) -> 
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): error MSB8020: The build tools for Clang_5_0 (Platform Toolset = 'Clang_5_0') cannot be found. To build using the Clang_5_0 build tools, please install Clang_5_0 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution". [C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdC\CompilerIdC.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.12
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/Pr05p3ro/AppData/Local/Android/Sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe 
+Build flags: 
+Id flags: -c;--target=aarch64-none-linux-android21 
+
+The output was:
+1
+Microsoft (R) Build Engine version 16.8.3+39993bd9d for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/5/2021 2:58:33 AM.
+Project "C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): error MSB8020: The build tools for Clang_5_0 (Platform Toolset = 'Clang_5_0') cannot be found. To build using the Clang_5_0 build tools, please install Clang_5_0 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution". [C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdC\CompilerIdC.vcxproj]
+Done Building Project "C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdC\CompilerIdC.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdC\CompilerIdC.vcxproj" (default target) (1) ->
+(PrepareForBuild target) -> 
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): error MSB8020: The build tools for Clang_5_0 (Platform Toolset = 'Clang_5_0') cannot be found. To build using the Clang_5_0 build tools, please install Clang_5_0 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution". [C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdC\CompilerIdC.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.12
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Users/Pr05p3ro/AppData/Local/Android/Sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 16.8.3+39993bd9d for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/5/2021 2:58:33 AM.
+Project "C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): error MSB8020: The build tools for Clang_5_0 (Platform Toolset = 'Clang_5_0') cannot be found. To build using the Clang_5_0 build tools, please install Clang_5_0 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution". [C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdC\CompilerIdC.vcxproj]
+Done Building Project "C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdC\CompilerIdC.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdC\CompilerIdC.vcxproj" (default target) (1) ->
+(PrepareForBuild target) -> 
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): error MSB8020: The build tools for Clang_5_0 (Platform Toolset = 'Clang_5_0') cannot be found. To build using the Clang_5_0 build tools, please install Clang_5_0 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution". [C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdC\CompilerIdC.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.12
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+clang: error: no input files
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+clang: error: no input files
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Users/Pr05p3ro/AppData/Local/Android/Sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe 
+Build flags: -g;-DANDROID;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-D_FORTIFY_SOURCE=2;-Wformat;-Werror=format-security;;
+Id flags: -c;--target=aarch64-none-linux-android21 
+
+The output was:
+1
+Microsoft (R) Build Engine version 16.8.3+39993bd9d for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/5/2021 2:58:33 AM.
+Project "C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): error MSB8020: The build tools for Clang_5_0 (Platform Toolset = 'Clang_5_0') cannot be found. To build using the Clang_5_0 build tools, please install Clang_5_0 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution". [C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+Done Building Project "C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default target) (1) ->
+(PrepareForBuild target) -> 
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): error MSB8020: The build tools for Clang_5_0 (Platform Toolset = 'Clang_5_0') cannot be found. To build using the Clang_5_0 build tools, please install Clang_5_0 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution". [C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.12
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Users/Pr05p3ro/AppData/Local/Android/Sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe 
+Build flags: -g;-DANDROID;-fdata-sections;-ffunction-sections;-funwind-tables;-fstack-protector-strong;-no-canonical-prefixes;-D_FORTIFY_SOURCE=2;-Wformat;-Werror=format-security;;
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 16.8.3+39993bd9d for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/5/2021 2:58:34 AM.
+Project "C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): error MSB8020: The build tools for Clang_5_0 (Platform Toolset = 'Clang_5_0') cannot be found. To build using the Clang_5_0 build tools, please install Clang_5_0 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution". [C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+Done Building Project "C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default target) (1) ->
+(PrepareForBuild target) -> 
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): error MSB8020: The build tools for Clang_5_0 (Platform Toolset = 'Clang_5_0') cannot be found. To build using the Clang_5_0 build tools, please install Clang_5_0 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution". [C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.12
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Users/Pr05p3ro/AppData/Local/Android/Sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe 
+Build flags: 
+Id flags: -c;--target=aarch64-none-linux-android21 
+
+The output was:
+1
+Microsoft (R) Build Engine version 16.8.3+39993bd9d for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/5/2021 2:58:34 AM.
+Project "C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): error MSB8020: The build tools for Clang_5_0 (Platform Toolset = 'Clang_5_0') cannot be found. To build using the Clang_5_0 build tools, please install Clang_5_0 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution". [C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+Done Building Project "C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default target) (1) ->
+(PrepareForBuild target) -> 
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): error MSB8020: The build tools for Clang_5_0 (Platform Toolset = 'Clang_5_0') cannot be found. To build using the Clang_5_0 build tools, please install Clang_5_0 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution". [C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.12
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Users/Pr05p3ro/AppData/Local/Android/Sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 16.8.3+39993bd9d for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 9/5/2021 2:58:34 AM.
+Project "C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): error MSB8020: The build tools for Clang_5_0 (Platform Toolset = 'Clang_5_0') cannot be found. To build using the Clang_5_0 build tools, please install Clang_5_0 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution". [C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+Done Building Project "C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default target) (1) ->
+(PrepareForBuild target) -> 
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): error MSB8020: The build tools for Clang_5_0 (Platform Toolset = 'Clang_5_0') cannot be found. To build using the Clang_5_0 build tools, please install Clang_5_0 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution". [C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\3.21.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.12
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+clang++: error: no input files
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+clang++: error: no input files
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Pr05p3ro/projects/leveldb-ndk-android-sample/app/src/main/cpp/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_74ff9.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.8.3+39993bd9d for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): error MSB8020: The build tools for Clang_5_0 (Platform Toolset = 'Clang_5_0') cannot be found. To build using the Clang_5_0 build tools, please install Clang_5_0 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution". [C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\CMakeTmp\cmTC_74ff9.vcxproj]
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Pr05p3ro/projects/leveldb-ndk-android-sample/app/src/main/cpp/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_47c25.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.8.3+39993bd9d for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): error MSB8020: The build tools for Clang_5_0 (Platform Toolset = 'Clang_5_0') cannot be found. To build using the Clang_5_0 build tools, please install Clang_5_0 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution". [C:\Users\Pr05p3ro\projects\leveldb-ndk-android-sample\app\src\main\cpp\CMakeFiles\CMakeTmp\cmTC_47c25.vcxproj]
+
+
+
